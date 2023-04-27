@@ -38,6 +38,7 @@ dependencies:
   flutter_masked_text: ^0.8.0
   flutter_masked_text2: ^0.9.1
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
